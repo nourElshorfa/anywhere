@@ -1,0 +1,29 @@
+{
+    "welcome": "Welcome, Talia 👋",
+    "logout": "Logout",
+    "exams_time": "EXAMS TIME",
+    "announcements": "Announcements",
+    "no_announcements": "No new announcements right now." ,
+      "view_tips": "View Exams Tips",
+      "exam_message": "Are you ready to fight? We prepared some tips to be ready for your exams.",
+    
+    "sidebar": {
+      "title": "Coligo",
+      "dashboard": "Dashboard",
+      "schedule": "Schedule",
+      "courses": "Courses",
+      "gradebook": "Gradebook",
+      "performance": "Performance",
+      "announcement": "Announcement"
+    } , 
+    "rightpanel": {
+    "whats_due": "What's due",
+    "assignments_due": "You have 2 assignments due",
+    "unit_quiz": "Unit 2 Quiz",
+    "quiz_details": "Physics Q2 • Due 20 Dec 2017",
+    "start_quiz": "Start Quiz",
+    "take_assignment": "Take Assignment"
+  }
+  }
+  
+

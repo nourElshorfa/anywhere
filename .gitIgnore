@@ -1,0 +1,40 @@
+# === Common ===
+node_modules
+.DS_Store
+.env
+.env.local
+dist
+build
+coverage
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+*.local
+
+# === Frontend (Vite + React + TypeScript) ===
+client/dist
+client/dist-ssr
+client/node_modules
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# === Backend (Node.js / Express / Nest.js) ===
+server/node_modules
+server/dist
+server/.env
+server/uploads
+server/logs
+
+# === System files ===
+Thumbs.db
