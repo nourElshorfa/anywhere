@@ -12,7 +12,7 @@ All source code was written by me, and Claude AI was used only to assist with:
 * Creating the requireAuth HOC
 * TypeScript refinements in some utilities
 
-🕒 **Time Spent:** Around 12–14 hours (due to work schedule and commitemnts)
+🕒 **Time Spent:** Around 12–14 hours 
 
 ---
 
